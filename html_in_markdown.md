@@ -1,6 +1,4 @@
-# This is a markdown file
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
